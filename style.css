@@ -88,7 +88,37 @@ body {
     margin: 20px;
 }
 
+/* get my updates */
 
+#sec5 {
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.btn2 {
+    padding: 10px;
+    background-color: rgb(233, 227, 224);
+    color: white;
+    border: none;
+}
+
+.btn3 {
+    padding: 10px;
+    background-color: orangered;
+    color: white;
+    border: none;
+}
+
+.btn4 {
+    border: none;
+    background-color: antiquewhite;
+    padding: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
 
 /* footer */
 footer {
