@@ -1,0 +1,42 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.fontsize1 {
+    font-size: 4em;
+}
+
+#fontsize2 {
+    font-size: 2.5em;
+}
+
+.center-align {
+    text-align: center;
+
+}
+
+.btn {
+    text-decoration: none;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.flexible {
+    display: flex;
+
+
+}
+
+h2 {
+    padding: 30px 30px;
+    background-color: azure;
+    margin-left: 20px;
+}
+
+.border-box {
+    border: 2px solid red;
+    background-color: rgb(238, 184, 184);
+
+}
