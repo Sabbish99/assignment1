@@ -88,6 +88,32 @@ body {
     margin: 20px;
 }
 
+/* donates people */
+.flex {
+    display: flex;
+
+}
+
+#flex1 {
+    background-color: rgb(222, 228, 216);
+    padding: 20px;
+    margin: 50px;
+}
+
+#flex2 {
+    background-color: rgb(240, 236, 232);
+    padding: 20px;
+    margin: 50px;
+}
+
+#sec6 {
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
 /* get my updates */
 
 #sec5 {
